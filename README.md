@@ -1,5 +1,6 @@
 # Registration-Form
-Registration and Login Form, developed in HTML5 and CSS. Validation done in JavaScript
+
+>  *Formulário de Cadastro e Login, desenvolvido com responsividade em HTML5 e CSS3.*
 
 <h3>Front-end</h3>
 
@@ -7,6 +8,11 @@ Registration and Login Form, developed in HTML5 and CSS. Validation done in Java
     <img alt="FormFront" src="/assets/imagens/FormFront.png" width=1000px" />
     <img alt="FormFront Login" src="/assets/imagens/FormFront Login.png" width=1000px" />   
 </h1>
+
+# Tecnologias utilizadas no projeto
+
+- HTML5
+- CSS3
 
 # Tarefas em andamento... 🚧
 
